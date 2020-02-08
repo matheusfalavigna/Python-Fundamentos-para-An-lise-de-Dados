@@ -2,7 +2,7 @@
 lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 print(lista)
 print("\n")
-OI AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
 # Exercicio 2
 lista = ["Pão","Ovo","Açucar","Arroz","Carne"]
 print(lista)
@@ -47,7 +47,7 @@ print(lista)
 print("\n")
 
 # Exercicio 10
-frase = 'Cientista de Dados é o profissional mais sexy do século XXI'
+frase = 'Os problemas são oportunidades para se mostrar o que sabe.'
 print(frase[0:18])
 print("\n")
 
